@@ -1,2 +1,2 @@
 # hello-world
-First Repository.
+This is my fisrt repository and first experience with VIM text editor.
